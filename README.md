@@ -7,4 +7,4 @@ country are given.
 
 Project link: https://node-red-mjktp.eu-gb.mybluemix.net/ui/#!/0?socketid=zEAUMl51kYBVPLXTAAAV
 
-Video link: https://drive.google.com/drive/folders/1Dowo-Dk_3zYhj_PcSuoZlfXUkpcaKzyQ
+Video link: https://drive.google.com/drive/folders/1Dowo-Dk_3zYhj_PcSuoZlfXUkpcaKzyQ?usp=sharing
